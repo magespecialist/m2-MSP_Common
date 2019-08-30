@@ -2,7 +2,7 @@
     "name": "msp/common",
     "description": "",
     "require": {
-        "php": "^7.0|^7.1",
+        "php": "^7.0|^7.1|^7.2",
         
         "magento/magento-composer-installer": "*"
     },
@@ -10,7 +10,7 @@
 
     },
     "type": "magento2-module",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "license": "OSL-3.0",
     "autoload": {
         "files": [
