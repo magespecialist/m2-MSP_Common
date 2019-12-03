@@ -23,7 +23,7 @@
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
         <tab id="msp_common" translate="label" sortOrder="200">
-            <label><![CDATA[<span class="msp-logo-config"></span><span>MageSpecialist</span>]]></label>
+            <label>MageSpecialist</label>
         </tab>
     </system>
 </config>
