@@ -2,8 +2,6 @@
     "name": "msp/common",
     "description": "",
     "require": {
-        "php": "^7.0|^7.1|^7.2",
-        
         "magento/magento-composer-installer": "*"
     },
     "suggest": {
